@@ -4,8 +4,6 @@ description: 將相同的輸入丟入，永遠都會回傳相同的輸出，並�
 
 # Pure Function
 
-## Getting Super Powers
-
 Pure Function 的定義十分簡單（所以更適合其字面語意）：
 
 {% hint style="info" %}
