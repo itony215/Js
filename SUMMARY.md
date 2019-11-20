@@ -20,4 +20,5 @@
 * [Sum of two dimensional array](sum-of-two-dimensional-array.md)
 * [fragment](fragment.md)
 * [base64編碼](base64-bian-ma.md)
+* [React js 小聚 SSR SEO](react-js-xiao-ju-ssr-seo.md)
 
