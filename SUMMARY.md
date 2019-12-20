@@ -26,4 +26,5 @@
 * [list api設計](list-api-she-ji.md)
 * [Redis](redis.md)
 * [sort](sort.md)
+* [reduce](reduce.md)
 
