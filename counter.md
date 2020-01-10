@@ -46,7 +46,7 @@ console.log( countFunc() );   // 3
 
 重點
 
-
+拉到 `function counter(){ ... })` 的外面，由變數 `countFunc` 來保存 `counter()` 回傳的 `innerCounter`，同時也將裡面的 `count` 狀態給保存下來，這個時候 `count` 就不會每次都從 0 開始計算，這也是「閉包」Closure 最大的功能所在。
 
 ```text
 var countFunc = counter();
