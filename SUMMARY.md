@@ -33,4 +33,6 @@
 * [Javascript順序](javascript-shun-xu.md)
 * [counter](counter.md)
 * [\[書\] 重新認識javascript](shu-zhong-xin-ren-shi-javascript.md)
+* [GKE](gke.md)
+* [SEO](seo.md)
 
