@@ -35,4 +35,5 @@
 * [\[書\] 重新認識javascript](shu-zhong-xin-ren-shi-javascript.md)
 * [GKE](gke.md)
 * [SEO](seo.md)
+* [2020年的Web開發人員 - 實用指南](2020-nian-de-web-kai-fa-ren-yuan-shi-yong-zhi-nan.md)
 
