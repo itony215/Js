@@ -7,7 +7,7 @@
 * [Pure Function](pure-function.md)
 * [Functional Programming](functional-programming.md)
 * [High order function](high-order-function.md)
-* [Debounce](debounce.md)
+* [Lodash - 使用debounce做事件延遲](debounce.md)
 * [Immutable](immutable.md)
 * [Bootstap](bootstap.md)
 * [Shallow equal](shallow-equal.md)
