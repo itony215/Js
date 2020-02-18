@@ -41,4 +41,5 @@
 * [如何在Vue裡面使用Element-ui並修改CSS樣式呢？](ru-he-zai-vue-li-mian-shi-yong-elementui-bing-xiu-gai-css-yang-shi-ne.md)
 * [深拷貝淺拷貝](shen-kao-bei-qian-kao-bei.md)
 * [如何串接 KKBOX OPEN API?](ru-he-chuan-jie-kkbox-open-api.md)
+* [mongodb cap理論](mongodb-cap-li-lun.md)
 
