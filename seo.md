@@ -14,3 +14,28 @@ Google搜尋蜘蛛\(Googlebot\)會分次搜爬Javascript型網頁，一開始會
 
 以SEO的角度來說，我們會建議盡可能的將主要呈現的內容\(文字、圖片...\)直接寫在網頁中\(第一次搜爬會爬到的\)，而非是寫在Javascript裡，避免在尚未被索引的這幾天之間，流失掉流量。
 
+**1.重複性的內容，降低頁面權重\(google panda演算法會排除\)  
+\(**熊貓檢查的主要重點是**重複內容、精簡內容和關鍵字填充，避免用目標關鍵字填充頁面**。**\)  
+2.網頁標題及底下描述不能馬虎  
+3.未附上Alt標籤，減少圖片搜尋排名  
+4.文內連結超多，資訊量不足  
+5.暫時性網頁轉向，排名無法計算  
+6.網頁內容產生不易辨識的亂碼**
+
+最終目的都是  
+顯示這頁內容  
+讓搜尋引擎社群謀體的爬蟲看得到
+
+ＳＭＯ \(social media optimize\)  
+facebook debugger 就是你的網址在他眼中看起來是什麼樣子   
+[https://developers.facebook.com/tools/debug/](https://developers.facebook.com/tools/debug/)  
+og tag = facebook
+
+[https://transbiz.com.tw/seo-myths/](https://transbiz.com.tw/seo-myths/)  
+[https://transbiz.com.tw/seo-guide/](https://transbiz.com.tw/seo-guide/)  
+[https://growthmarketing.tw/google-alogrithm/](https://growthmarketing.tw/google-alogrithm/)  
+  
+[https://youtu.be/BNHR6IQJGZs](https://youtu.be/BNHR6IQJGZs)  
+[https://www.youtube.com/watch?v=H8aEWX-llSc](https://www.youtube.com/watch?v=H8aEWX-llSc)  
+[https://www.youtube.com/watch?v=XMvZ\_Z0FFGk](https://www.youtube.com/watch?v=XMvZ_Z0FFGk)
+
