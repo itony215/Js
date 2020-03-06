@@ -42,4 +42,5 @@
 * [深拷貝淺拷貝](shen-kao-bei-qian-kao-bei.md)
 * [如何串接 KKBOX OPEN API?](ru-he-chuan-jie-kkbox-open-api.md)
 * [mongodb cap理論](mongodb-cap-li-lun.md)
+* [vue style scoped](vue-style-scoped.md)
 
