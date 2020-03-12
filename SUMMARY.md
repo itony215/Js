@@ -43,4 +43,5 @@
 * [如何串接 KKBOX OPEN API?](ru-he-chuan-jie-kkbox-open-api.md)
 * [mongodb cap理論](mongodb-cap-li-lun.md)
 * [vue style scoped](vue-style-scoped.md)
+* [vs code設定 加不加分號](vs-code-she-ding.md)
 
