@@ -2,7 +2,16 @@
 
 上次IBM面試被考restful api 是什麼？什麼格式？json?有哪幾種方法？
 
-答案如下
+答案如下  
+REST全名 Resource Representational State Transfer ，可譯為具象狀態傳輸，若是把各個單字拆開來解釋的話即如下：
+
+Resource：資源。
+
+Representational：表現形式，如JSON，XML．．．
+
+State Transfer：狀態變化。即上述講到的可利用HTTP動詞們來做呼叫。
+
+======
 
 GET：取得\(想要的服務\)的資料或是狀態。（safe & idempotent）   
 POST：新增一項資料。   
