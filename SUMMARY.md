@@ -46,4 +46,5 @@
 * [vs code設定 加不加分號](vs-code-she-ding.md)
 * [vuex mapstate](vuex-mapstate.md)
 * [Restful API](restful-api.md)
+* [CI/CD自動部署 Github Actions vs Bitbucket Pipelines](cicd-zi-dong-bu-shu-github-actions-vs-bitbucket-pipelines.md)
 
