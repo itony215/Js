@@ -2,3 +2,7 @@
 
 開f12 performance 去錄一段檢查
 
+self
+
+total
+
