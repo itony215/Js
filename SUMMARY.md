@@ -50,4 +50,5 @@
 * [moment.js - 關於時間的一切](moment.js-guan-wu-shi-jian-de-yi-qie.md)
 * [two domain cannot cache each other](two-domain-cannot-cache-each-other.md)
 * [Tsung 壓力測試](tsung-ya-li-ce-shi.md)
+* [AWS EC2 機器效能](aws-ec2-ji-qi-xiao-neng.md)
 
