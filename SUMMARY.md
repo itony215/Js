@@ -53,4 +53,5 @@
 * [AWS EC2 機器效能](aws-ec2-ji-qi-xiao-neng.md)
 * [Virtual DOM\(React\)](virtual-dom-react.md)
 * [cors-issue](cors-issue.md)
+* [壓力測試的解法](ya-li-ce-shi-de-jie-fa.md)
 
