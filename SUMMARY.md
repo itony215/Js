@@ -52,4 +52,5 @@
 * [Tsung 壓力測試](tsung-ya-li-ce-shi.md)
 * [AWS EC2 機器效能](aws-ec2-ji-qi-xiao-neng.md)
 * [Virtual DOM\(React\)](virtual-dom-react.md)
+* [cors-issue](cors-issue.md)
 
